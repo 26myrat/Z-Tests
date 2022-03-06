@@ -1,1 +1,1 @@
-# Z-Tests
+# Sample-ZTests
